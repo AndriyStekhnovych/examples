@@ -1,0 +1,41 @@
+body{
+    padding: 40px;
+    background: #E5E5E5;
+}
+
+.wrapper {
+    background: #fff;
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.main_content {
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 40px;
+}
+
+.my_photo{
+    margin-bottom: 40px;
+}
+
+.about_me{
+    margin-bottom: 40px;
+}
+
+aside {
+    background: #DFEEFF;
+}
+
+.contacts_header {
+    color: #161D2A;
+}
+
+.contacts {
+    margin-bottom: 40px;
+}
+
+.techskills {
+    margin-bottom: 40px;
+}
